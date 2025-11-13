@@ -51,3 +51,4 @@
 ```
 
 ## GitHub Pages 網址
+https://rayho1021.github.io/114_web_midterm_project/
